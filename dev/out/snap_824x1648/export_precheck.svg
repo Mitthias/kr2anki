@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="824" height="1648" viewBox="0 0 824 1648" style="background:#fff">
+<rect x="0" y="0" width="824" height="1648" rx="0" fill="#ffffff"/>
+<text x="29" y="74" style="font-family:Helvetica, Arial, sans-serif;font-size:53px" fill="#000000">‹</text>
+<text x="111" y="70" style="font-family:Helvetica, Arial, sans-serif;font-weight:600;font-size:41px" fill="#000000">Export to Anki</text>
+<text x="623" y="65" style="font-family:Helvetica, Arial, sans-serif;font-weight:600;font-size:28px" fill="#000000">● Connected</text>
+<rect x="0" y="111" width="824" height="4" fill="#000000"/>
+<text x="30" y="219" style="font-family:Helvetica, Arial, sans-serif;font-weight:600;font-size:86px" fill="#000000">5</text>
+<text x="103" y="203" style="font-family:Helvetica, Arial, sans-serif;font-size:41px" fill="#000000">● ready to export</text>
+<text x="30" y="278" style="font-family:Helvetica, Arial, sans-serif;font-size:28px" fill="#000000">+ 1 new sentences for cards already in Anki</text>
+<rect x="30" y="289" width="764" height="2" fill="#000000"/>
+<text x="30" y="331" style="font-family:Helvetica, Arial, sans-serif;font-weight:600;font-size:24px" fill="#000000">BY DECK</text>
+<text x="30" y="408" style="font-family:Helvetica, Arial, sans-serif;font-size:34px" fill="#000000">Reading::Japanese</text>
+<text x="775" y="408" style="font-family:Helvetica, Arial, sans-serif;font-weight:600;font-size:34px" fill="#000000">3</text>
+<rect x="30" y="438" width="764" height="2" fill="#999999"/>
+<text x="30" y="493" style="font-family:Helvetica, Arial, sans-serif;font-size:34px" fill="#000000">Reading::Korean</text>
+<text x="775" y="493" style="font-family:Helvetica, Arial, sans-serif;font-weight:600;font-size:34px" fill="#000000">1</text>
+<rect x="30" y="523" width="764" height="2" fill="#999999"/>
+<text x="30" y="578" style="font-family:Helvetica, Arial, sans-serif;font-size:34px" fill="#000000">Reading::Chinese</text>
+<text x="775" y="578" style="font-family:Helvetica, Arial, sans-serif;font-weight:600;font-size:34px" fill="#000000">1</text>
+<text x="30" y="672" style="font-family:Helvetica, Arial, sans-serif;font-size:24px" fill="#444444">Cards: Recognition, Cloze, Kanji → Reading,…</text>
+<text x="707" y="671" style="font-family:Helvetica, Arial, sans-serif;font-size:24px" fill="#000000">Change</text>
+<rect x="707" y="681" width="79" height="2" fill="#000000"/>
+<rect x="30" y="719" width="764" height="2" fill="#000000"/>
+<text x="30" y="761" style="font-family:Helvetica, Arial, sans-serif;font-weight:600;font-size:24px" fill="#000000">IN ANOTHER NOTE TYPE: 1</text>
+<text x="30" y="810" text-anchor="start" style="font-family:Helvetica, Arial, sans-serif;font-size:28px" fill="#444444">打算 already exist in this deck as other cards.</text>
+<rect x="30" y="854" width="45" height="45" rx="22" fill="#ffffff"/>
+<rect x="32.0" y="856.0" width="41.0" height="41.0" rx="22" fill="none" stroke="#000000" stroke-width="4"/>
+<rect x="42" y="866" width="21" height="21" rx="10" fill="#000000"/>
+<text x="101" y="885" text-anchor="start" style="font-family:Helvetica, Arial, sans-serif;font-weight:600;font-size:34px" fill="#000000">Skip</text>
+<rect x="30" y="965" width="45" height="45" rx="22" fill="#ffffff"/>
+<rect x="32.0" y="967.0" width="41.0" height="41.0" rx="22" fill="none" stroke="#000000" stroke-width="4"/>
+<text x="101" y="996" text-anchor="start" style="font-family:Helvetica, Arial, sans-serif;font-size:34px" fill="#000000">Add anyway</text>
+<rect x="0" y="1487" width="824" height="4" fill="#000000"/>
+<rect x="30" y="1514" width="374" height="111" rx="11" fill="#ffffff"/>
+<rect x="31.5" y="1515.5" width="371.0" height="108.0" rx="11" fill="none" stroke="#000000" stroke-width="3"/>
+<text x="161" y="1581" style="font-family:Helvetica, Arial, sans-serif;font-weight:600;font-size:34px" fill="#000000">Cancel</text>
+<rect x="419" y="1514" width="375" height="111" rx="11" fill="#000000"/>
+<text x="550" y="1581" style="font-family:Helvetica, Arial, sans-serif;font-weight:600;font-size:34px" fill="#ffffff">Export</text>
+</svg>

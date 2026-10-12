@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1648" height="824" viewBox="0 0 1648 824" style="background:#fff">
+<rect x="0" y="0" width="1648" height="824" rx="0" fill="#ffffff"/>
+<text x="29" y="74" style="font-family:Helvetica, Arial, sans-serif;font-size:53px" fill="#000000">‹</text>
+<text x="111" y="70" style="font-family:Helvetica, Arial, sans-serif;font-weight:600;font-size:41px" fill="#000000">Export to Anki</text>
+<text x="1385" y="65" style="font-family:Helvetica, Arial, sans-serif;font-weight:600;font-size:28px" fill="#000000">○ Not reachable</text>
+<rect x="0" y="111" width="1648" height="4" fill="#000000"/>
+<text x="30" y="215" style="font-family:Helvetica, Arial, sans-serif;font-weight:600;font-size:86px" fill="#000000">1</text>
+<text x="103" y="199" style="font-family:Helvetica, Arial, sans-serif;font-size:41px" fill="#000000">● ready to export</text>
+<rect x="30" y="262" width="1588" height="366" rx="11" fill="#ffffff"/>
+<rect x="31.5" y="263.5" width="1585.0" height="363.0" rx="11" fill="none" stroke="#000000" stroke-width="3"/>
+<text x="56" y="326" text-anchor="start" style="font-family:Helvetica, Arial, sans-serif;font-weight:600;font-size:41px" fill="#000000">Can't reach AnkiConnect Android.</text>
+<text x="56" y="381" text-anchor="start" style="font-family:Helvetica, Arial, sans-serif;font-size:28px" fill="#444444">This usually happens when Android closes the app in the background to save battery. Opening it</text>
+<text x="56" y="417" text-anchor="start" style="font-family:Helvetica, Arial, sans-serif;font-size:28px" fill="#444444">once is normally enough.</text>
+<text x="56" y="461" text-anchor="start" style="font-family:Helvetica, Arial, sans-serif;font-size:28px" fill="#000000">Your 1 words stay Ready. Nothing was lost.</text>
+<rect x="56" y="491" width="502" height="111" rx="11" fill="#ffffff"/>
+<rect x="57.5" y="492.5" width="499.0" height="108.0" rx="11" fill="none" stroke="#000000" stroke-width="3"/>
+<text x="71" y="556" style="font-family:Helvetica, Arial, sans-serif;font-weight:600;font-size:28px" fill="#000000">Save as Anki package (.apkg) …</text>
+<rect x="573" y="491" width="502" height="111" rx="11" fill="#ffffff"/>
+<rect x="574.5" y="492.5" width="499.0" height="108.0" rx="11" fill="none" stroke="#000000" stroke-width="3"/>
+<text x="747" y="556" style="font-family:Helvetica, Arial, sans-serif;font-weight:600;font-size:28px" fill="#000000">How to fix</text>
+<rect x="1090" y="491" width="502" height="111" rx="11" fill="#000000"/>
+<text x="1302" y="556" style="font-family:Helvetica, Arial, sans-serif;font-weight:600;font-size:28px" fill="#ffffff">Retry</text>
+<rect x="0" y="663" width="1648" height="4" fill="#000000"/>
+<rect x="30" y="690" width="1588" height="111" rx="11" fill="#ffffff"/>
+<rect x="31.5" y="691.5" width="1585.0" height="108.0" rx="11" fill="none" stroke="#000000" stroke-width="3"/>
+<text x="768" y="757" style="font-family:Helvetica, Arial, sans-serif;font-weight:600;font-size:34px" fill="#000000">Cancel</text>
+</svg>

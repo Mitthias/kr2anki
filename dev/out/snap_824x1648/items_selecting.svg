@@ -1,0 +1,71 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="824" height="1648" viewBox="0 0 824 1648" style="background:#fff">
+<rect x="0" y="0" width="824" height="1648" rx="0" fill="#ffffff"/>
+<text x="29" y="74" style="font-family:Helvetica, Arial, sans-serif;font-size:53px" fill="#000000">✕</text>
+<text x="111" y="70" style="font-family:Helvetica, Arial, sans-serif;font-weight:600;font-size:41px" fill="#000000">5 selected</text>
+<rect x="568" y="0" width="237" height="111" rx="11" fill="#ffffff"/>
+<rect x="569.5" y="1.5" width="234.0" height="108.0" rx="11" fill="none" stroke="#000000" stroke-width="3"/>
+<text x="602" y="65" style="font-family:Helvetica, Arial, sans-serif;font-weight:600;font-size:28px" fill="#000000">Select page</text>
+<rect x="0" y="111" width="824" height="4" fill="#000000"/>
+<text x="30" y="180" style="font-family:Helvetica, Arial, sans-serif;font-size:28px" fill="#444444">5 items · all statuses</text>
+<text x="570" y="179" style="font-family:Helvetica, Arial, sans-serif;font-size:28px" fill="#000000">Select all (5)</text>
+<rect x="570" y="190" width="216" height="2" fill="#000000"/>
+<rect x="0" y="226" width="824" height="2" fill="#000000"/>
+<rect x="30" y="261" width="45" height="45" rx="6" fill="#000000"/>
+<rect x="32.0" y="263.0" width="41.0" height="41.0" rx="6" fill="none" stroke="#000000" stroke-width="4"/>
+<text x="38" y="293" style="font-family:Helvetica, Arial, sans-serif;font-weight:600;font-size:28px" fill="#ffffff">✓</text>
+<text x="113" y="277" style="font-family:Helvetica, Arial, sans-serif;font-weight:600;font-size:34px" fill="#000000">打算</text>
+<text x="113" y="317" style="font-family:Helvetica, Arial, sans-serif;font-size:24px" fill="#444444">dǎ suàn</text>
+<text x="403" y="290" text-anchor="start" style="font-family:Helvetica, Arial, sans-serif;font-size:28px" fill="#000000">to plan</text>
+<text x="753" y="298" style="font-family:Helvetica, Arial, sans-serif;font-size:41px" fill="#000000">○</text>
+<rect x="30" y="339" width="764" height="2" fill="#999999"/>
+<rect x="30" y="374" width="45" height="45" rx="6" fill="#000000"/>
+<rect x="32.0" y="376.0" width="41.0" height="41.0" rx="6" fill="none" stroke="#000000" stroke-width="4"/>
+<text x="38" y="406" style="font-family:Helvetica, Arial, sans-serif;font-weight:600;font-size:28px" fill="#ffffff">✓</text>
+<text x="113" y="390" style="font-family:Helvetica, Arial, sans-serif;font-weight:600;font-size:34px" fill="#000000">打ち明ける</text>
+<text x="113" y="430" style="font-family:Helvetica, Arial, sans-serif;font-size:24px" fill="#444444">うちあける</text>
+<text x="403" y="385" text-anchor="start" style="font-family:Helvetica, Arial, sans-serif;font-size:28px" fill="#000000">to confide (a</text>
+<text x="403" y="421" text-anchor="start" style="font-family:Helvetica, Arial, sans-serif;font-size:28px" fill="#000000">secret); to reveal;…</text>
+<text x="753" y="411" style="font-family:Helvetica, Arial, sans-serif;font-size:41px" fill="#000000">○</text>
+<rect x="30" y="452" width="764" height="2" fill="#999999"/>
+<rect x="30" y="487" width="45" height="45" rx="6" fill="#000000"/>
+<rect x="32.0" y="489.0" width="41.0" height="41.0" rx="6" fill="none" stroke="#000000" stroke-width="4"/>
+<text x="38" y="519" style="font-family:Helvetica, Arial, sans-serif;font-weight:600;font-size:28px" fill="#ffffff">✓</text>
+<text x="113" y="503" style="font-family:Helvetica, Arial, sans-serif;font-weight:600;font-size:34px" fill="#000000">成る</text>
+<text x="113" y="543" style="font-family:Helvetica, Arial, sans-serif;font-size:24px" fill="#444444">なる</text>
+<text x="403" y="498" text-anchor="start" style="font-family:Helvetica, Arial, sans-serif;font-size:28px" fill="#000000">to become; to get;</text>
+<text x="403" y="534" text-anchor="start" style="font-family:Helvetica, Arial, sans-serif;font-size:28px" fill="#000000">to grow; to turn…</text>
+<text x="753" y="524" style="font-family:Helvetica, Arial, sans-serif;font-size:41px" fill="#000000">—</text>
+<rect x="30" y="565" width="764" height="2" fill="#999999"/>
+<rect x="30" y="600" width="45" height="45" rx="6" fill="#000000"/>
+<rect x="32.0" y="602.0" width="41.0" height="41.0" rx="6" fill="none" stroke="#000000" stroke-width="4"/>
+<text x="38" y="632" style="font-family:Helvetica, Arial, sans-serif;font-weight:600;font-size:28px" fill="#ffffff">✓</text>
+<text x="113" y="616" style="font-family:Helvetica, Arial, sans-serif;font-weight:600;font-size:34px" fill="#000000">◆ わなくては…</text>
+<text x="113" y="656" style="font-family:Helvetica, Arial, sans-serif;font-size:24px" fill="#444444">expression</text>
+<text x="403" y="629" text-anchor="start" style="font-family:Helvetica, Arial, sans-serif;font-size:28px" fill="#444444">—</text>
+<text x="753" y="637" style="font-family:Helvetica, Arial, sans-serif;font-size:41px" fill="#000000">○</text>
+<rect x="30" y="678" width="764" height="2" fill="#999999"/>
+<rect x="30" y="713" width="45" height="45" rx="6" fill="#000000"/>
+<rect x="32.0" y="715.0" width="41.0" height="41.0" rx="6" fill="none" stroke="#000000" stroke-width="4"/>
+<text x="38" y="745" style="font-family:Helvetica, Arial, sans-serif;font-weight:600;font-size:28px" fill="#ffffff">✓</text>
+<text x="113" y="747" style="font-family:Helvetica, Arial, sans-serif;font-weight:600;font-size:34px" fill="#000000">珍語</text>
+<text x="403" y="742" text-anchor="start" style="font-family:Helvetica, Arial, sans-serif;font-size:28px" fill="#444444">—</text>
+<text x="753" y="750" style="font-family:Helvetica, Arial, sans-serif;font-size:41px" fill="#000000">○</text>
+<rect x="30" y="791" width="764" height="2" fill="#999999"/>
+<text x="30" y="1354" style="font-family:Helvetica, Arial, sans-serif;font-size:24px" fill="#444444">○ Inbox · ● Ready · ✓ In Anki · — Known · × Discarde…</text>
+<rect x="0" y="1374" width="824" height="2" fill="#000000"/>
+<text x="364" y="1443" style="font-family:Helvetica, Arial, sans-serif;font-size:34px" fill="#000000">1 / 1</text>
+<text x="59" y="1450" style="font-family:Helvetica, Arial, sans-serif;font-size:53px" fill="#999999">‹</text>
+<text x="712" y="1450" style="font-family:Helvetica, Arial, sans-serif;font-size:53px" fill="#999999">›</text>
+<rect x="0" y="1487" width="824" height="4" fill="#000000"/>
+<rect x="30" y="1514" width="98" height="111" rx="11" fill="#ffffff"/>
+<rect x="31.5" y="1515.5" width="95.0" height="108.0" rx="11" fill="none" stroke="#000000" stroke-width="3"/>
+<text x="65" y="1579" style="font-family:Helvetica, Arial, sans-serif;font-weight:600;font-size:28px" fill="#000000">⋯</text>
+<rect x="143" y="1514" width="179" height="111" rx="11" fill="#ffffff"/>
+<rect x="144.5" y="1515.5" width="176.0" height="108.0" rx="11" fill="none" stroke="#000000" stroke-width="3"/>
+<text x="171" y="1579" style="font-family:Helvetica, Arial, sans-serif;font-weight:600;font-size:28px" fill="#000000">× Delete</text>
+<rect x="337" y="1514" width="179" height="111" rx="11" fill="#ffffff"/>
+<rect x="338.5" y="1515.5" width="176.0" height="108.0" rx="11" fill="none" stroke="#000000" stroke-width="3"/>
+<text x="366" y="1579" style="font-family:Helvetica, Arial, sans-serif;font-weight:600;font-size:28px" fill="#000000">— Known</text>
+<rect x="531" y="1514" width="263" height="111" rx="11" fill="#000000"/>
+<text x="564" y="1579" style="font-family:Helvetica, Arial, sans-serif;font-weight:600;font-size:28px" fill="#ffffff">● Mark Ready</text>
+</svg>

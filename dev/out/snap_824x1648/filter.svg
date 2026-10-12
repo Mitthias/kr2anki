@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="824" height="1648" viewBox="0 0 824 1648" style="background:#fff">
+<rect x="0" y="0" width="824" height="1648" rx="0" fill="#ffffff"/>
+<text x="29" y="74" style="font-family:Helvetica, Arial, sans-serif;font-size:53px" fill="#000000">‹</text>
+<text x="111" y="70" style="font-family:Helvetica, Arial, sans-serif;font-weight:600;font-size:41px" fill="#000000">Filter</text>
+<rect x="0" y="111" width="824" height="4" fill="#000000"/>
+<text x="30" y="155" style="font-family:Helvetica, Arial, sans-serif;font-weight:600;font-size:24px" fill="#000000">STATUS</text>
+<rect x="30" y="212" width="45" height="45" rx="6" fill="#ffffff"/>
+<rect x="32.0" y="214.0" width="41.0" height="41.0" rx="6" fill="none" stroke="#000000" stroke-width="4"/>
+<text x="101" y="243" text-anchor="start" style="font-family:Helvetica, Arial, sans-serif;font-size:34px" fill="#000000">○ Inbox</text>
+<rect x="30" y="290" width="764" height="2" fill="#999999"/>
+<rect x="30" y="325" width="45" height="45" rx="6" fill="#ffffff"/>
+<rect x="32.0" y="327.0" width="41.0" height="41.0" rx="6" fill="none" stroke="#000000" stroke-width="4"/>
+<text x="101" y="356" text-anchor="start" style="font-family:Helvetica, Arial, sans-serif;font-size:34px" fill="#000000">● Ready</text>
+<rect x="30" y="403" width="764" height="2" fill="#999999"/>
+<rect x="30" y="438" width="45" height="45" rx="6" fill="#ffffff"/>
+<rect x="32.0" y="440.0" width="41.0" height="41.0" rx="6" fill="none" stroke="#000000" stroke-width="4"/>
+<text x="101" y="469" text-anchor="start" style="font-family:Helvetica, Arial, sans-serif;font-size:34px" fill="#000000">✓ In Anki</text>
+<rect x="30" y="516" width="764" height="2" fill="#999999"/>
+<rect x="30" y="551" width="45" height="45" rx="6" fill="#ffffff"/>
+<rect x="32.0" y="553.0" width="41.0" height="41.0" rx="6" fill="none" stroke="#000000" stroke-width="4"/>
+<text x="101" y="582" text-anchor="start" style="font-family:Helvetica, Arial, sans-serif;font-size:34px" fill="#000000">— Known</text>
+<rect x="30" y="629" width="764" height="2" fill="#999999"/>
+<rect x="30" y="664" width="45" height="45" rx="6" fill="#ffffff"/>
+<rect x="32.0" y="666.0" width="41.0" height="41.0" rx="6" fill="none" stroke="#000000" stroke-width="4"/>
+<text x="101" y="695" text-anchor="start" style="font-family:Helvetica, Arial, sans-serif;font-size:34px" fill="#000000">× Discarded</text>
+<text x="30" y="782" style="font-family:Helvetica, Arial, sans-serif;font-weight:600;font-size:24px" fill="#000000">TYPE</text>
+<rect x="30" y="839" width="45" height="45" rx="22" fill="#ffffff"/>
+<rect x="32.0" y="841.0" width="41.0" height="41.0" rx="22" fill="none" stroke="#000000" stroke-width="4"/>
+<rect x="42" y="851" width="21" height="21" rx="10" fill="#000000"/>
+<text x="101" y="870" text-anchor="start" style="font-family:Helvetica, Arial, sans-serif;font-size:34px" fill="#000000">Words and expressions</text>
+<rect x="30" y="917" width="764" height="2" fill="#999999"/>
+<rect x="30" y="952" width="45" height="45" rx="22" fill="#ffffff"/>
+<rect x="32.0" y="954.0" width="41.0" height="41.0" rx="22" fill="none" stroke="#000000" stroke-width="4"/>
+<text x="101" y="983" text-anchor="start" style="font-family:Helvetica, Arial, sans-serif;font-size:34px" fill="#000000">Words</text>
+<rect x="30" y="1030" width="764" height="2" fill="#999999"/>
+<rect x="30" y="1065" width="45" height="45" rx="22" fill="#ffffff"/>
+<rect x="32.0" y="1067.0" width="41.0" height="41.0" rx="22" fill="none" stroke="#000000" stroke-width="4"/>
+<text x="101" y="1096" text-anchor="start" style="font-family:Helvetica, Arial, sans-serif;font-size:34px" fill="#000000">◆ Expressions</text>
+<text x="30" y="1183" style="font-family:Helvetica, Arial, sans-serif;font-weight:600;font-size:24px" fill="#000000">SAVED</text>
+<text x="30" y="1274" style="font-family:Helvetica, Arial, sans-serif;font-size:34px" fill="#000000">Any time</text>
+<text x="753" y="1277" style="font-family:Helvetica, Arial, sans-serif;font-size:41px" fill="#000000">›</text>
+<rect x="0" y="1487" width="824" height="4" fill="#000000"/>
+<rect x="30" y="1514" width="374" height="111" rx="11" fill="#ffffff"/>
+<rect x="31.5" y="1515.5" width="371.0" height="108.0" rx="11" fill="none" stroke="#000000" stroke-width="3"/>
+<text x="170" y="1581" style="font-family:Helvetica, Arial, sans-serif;font-weight:600;font-size:34px" fill="#000000">Clear</text>
+<rect x="419" y="1514" width="375" height="111" rx="11" fill="#000000"/>
+<text x="559" y="1581" style="font-family:Helvetica, Arial, sans-serif;font-weight:600;font-size:34px" fill="#ffffff">Apply</text>
+</svg>

@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="824" height="1648" viewBox="0 0 824 1648" style="background:#fff">
+<rect x="0" y="0" width="824" height="1648" rx="0" fill="#ffffff"/>
+<text x="29" y="74" style="font-family:Helvetica, Arial, sans-serif;font-size:53px" fill="#000000">‹</text>
+<text x="111" y="70" style="font-family:Helvetica, Arial, sans-serif;font-weight:600;font-size:41px" fill="#000000">Export to Anki</text>
+<text x="623" y="65" style="font-family:Helvetica, Arial, sans-serif;font-weight:600;font-size:28px" fill="#000000">● Connected</text>
+<rect x="0" y="111" width="824" height="4" fill="#000000"/>
+<text x="30" y="205" style="font-family:Helvetica, Arial, sans-serif;font-weight:600;font-size:68px" fill="#000000">Done, with failures</text>
+<text x="30" y="272" style="font-family:Helvetica, Arial, sans-serif;font-size:41px" fill="#000000">4 added · 0 merged · 1 failed</text>
+<rect x="30" y="306" width="764" height="2" fill="#000000"/>
+<text x="30" y="364" style="font-family:Helvetica, Arial, sans-serif;font-size:41px" fill="#000000">✓</text>
+<text x="94" y="361" style="font-family:Helvetica, Arial, sans-serif;font-size:34px" fill="#000000">Added as new notes</text>
+<text x="775" y="361" style="font-family:Helvetica, Arial, sans-serif;font-weight:600;font-size:34px" fill="#000000">4</text>
+<rect x="30" y="391" width="764" height="2" fill="#999999"/>
+<text x="30" y="449" style="font-family:Helvetica, Arial, sans-serif;font-size:41px" fill="#000000">+</text>
+<text x="94" y="446" style="font-family:Helvetica, Arial, sans-serif;font-size:34px" fill="#000000">Sentence added to existing card</text>
+<text x="775" y="446" style="font-family:Helvetica, Arial, sans-serif;font-weight:600;font-size:34px" fill="#000000">0</text>
+<rect x="30" y="476" width="764" height="2" fill="#999999"/>
+<text x="30" y="534" style="font-family:Helvetica, Arial, sans-serif;font-size:41px" fill="#000000">×</text>
+<text x="94" y="531" style="font-family:Helvetica, Arial, sans-serif;font-size:34px" fill="#000000">Failed</text>
+<text x="775" y="531" style="font-family:Helvetica, Arial, sans-serif;font-weight:600;font-size:34px" fill="#000000">1</text>
+<rect x="30" y="561" width="764" height="2" fill="#999999"/>
+<text x="30" y="619" style="font-family:Helvetica, Arial, sans-serif;font-size:41px" fill="#000000">—</text>
+<text x="94" y="616" style="font-family:Helvetica, Arial, sans-serif;font-size:34px" fill="#000000">Skipped (still Ready)</text>
+<text x="775" y="616" style="font-family:Helvetica, Arial, sans-serif;font-weight:600;font-size:34px" fill="#000000">1</text>
+<text x="30" y="690" text-anchor="start" style="font-family:Helvetica, Arial, sans-serif;font-size:28px" fill="#000000">× run — The card in Anki was not found</text>
+<text x="30" y="741" text-anchor="start" style="font-family:Helvetica, Arial, sans-serif;font-size:28px" fill="#444444">Failed items stay Ready with their reason.</text>
+<text x="30" y="777" text-anchor="start" style="font-family:Helvetica, Arial, sans-serif;font-size:28px" fill="#444444">Nothing was lost.</text>
+<rect x="0" y="1487" width="824" height="4" fill="#000000"/>
+<rect x="30" y="1514" width="374" height="111" rx="11" fill="#ffffff"/>
+<rect x="31.5" y="1515.5" width="371.0" height="108.0" rx="11" fill="none" stroke="#000000" stroke-width="3"/>
+<text x="179" y="1581" style="font-family:Helvetica, Arial, sans-serif;font-weight:600;font-size:34px" fill="#000000">Done</text>
+<rect x="419" y="1514" width="375" height="111" rx="11" fill="#000000"/>
+<text x="522" y="1581" style="font-family:Helvetica, Arial, sans-serif;font-weight:600;font-size:34px" fill="#ffffff">Retry (1)</text>
+</svg>

@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="824" height="1648" viewBox="0 0 824 1648" style="background:#fff">
+<rect x="0" y="0" width="824" height="1648" rx="0" fill="#ffffff"/>
+<text x="29" y="74" style="font-family:Helvetica, Arial, sans-serif;font-size:53px" fill="#000000">‹</text>
+<text x="111" y="70" style="font-family:Helvetica, Arial, sans-serif;font-weight:600;font-size:41px" fill="#000000">Save as Anki package</text>
+<text x="805" y="65" style="font-family:Helvetica, Arial, sans-serif;font-weight:600;font-size:28px" fill="#000000"></text>
+<rect x="0" y="111" width="824" height="4" fill="#000000"/>
+<text x="30" y="201" style="font-family:Helvetica, Arial, sans-serif;font-weight:600;font-size:64px" fill="#000000">✓ Package saved</text>
+<text x="30" y="267" text-anchor="start" style="font-family:Helvetica, Arial, sans-serif;font-size:28px" fill="#000000">/var/folders/z5/m1_t19b51zn8pp_3_qr0fcjr0000gn/T/t</text>
+<text x="30" y="303" text-anchor="start" style="font-family:Helvetica, Arial, sans-serif;font-size:28px" fill="#000000">mp.yBYeYizAg2/kr2anki-export/kr2anki-2026-10-09-19</text>
+<text x="30" y="339" text-anchor="start" style="font-family:Helvetica, Arial, sans-serif;font-size:28px" fill="#000000">2 7 . a p k g</text>
+<text x="30" y="400" text-anchor="start" style="font-family:Helvetica, Arial, sans-serif;font-weight:600;font-size:34px" fill="#000000">In AnkiDroid: ⋮ ▸ Import ▸ choose</text>
+<text x="30" y="444" text-anchor="start" style="font-family:Helvetica, Arial, sans-serif;font-weight:600;font-size:34px" fill="#000000">this file.</text>
+<text x="30" y="508" text-anchor="start" style="font-family:Helvetica, Arial, sans-serif;font-size:28px" fill="#444444">Items stay Ready, because KR2Anki can't confirm</text>
+<text x="30" y="544" text-anchor="start" style="font-family:Helvetica, Arial, sans-serif;font-size:28px" fill="#444444">the import. After importing, tap Mark as…</text>
+<rect x="0" y="1487" width="824" height="4" fill="#000000"/>
+<rect x="30" y="1514" width="374" height="111" rx="11" fill="#ffffff"/>
+<rect x="31.5" y="1515.5" width="371.0" height="108.0" rx="11" fill="none" stroke="#000000" stroke-width="3"/>
+<text x="67" y="1581" style="font-family:Helvetica, Arial, sans-serif;font-weight:600;font-size:34px" fill="#000000">Mark as exported</text>
+<rect x="419" y="1514" width="375" height="111" rx="11" fill="#000000"/>
+<text x="569" y="1581" style="font-family:Helvetica, Arial, sans-serif;font-weight:600;font-size:34px" fill="#ffffff">Done</text>
+</svg>

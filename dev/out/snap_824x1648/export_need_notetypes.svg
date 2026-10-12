@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="824" height="1648" viewBox="0 0 824 1648" style="background:#fff">
+<rect x="0" y="0" width="824" height="1648" rx="0" fill="#ffffff"/>
+<text x="29" y="74" style="font-family:Helvetica, Arial, sans-serif;font-size:53px" fill="#000000">‹</text>
+<text x="111" y="70" style="font-family:Helvetica, Arial, sans-serif;font-weight:600;font-size:41px" fill="#000000">Export to Anki</text>
+<text x="623" y="65" style="font-family:Helvetica, Arial, sans-serif;font-weight:600;font-size:28px" fill="#000000">● Connected</text>
+<rect x="0" y="111" width="824" height="4" fill="#000000"/>
+<rect x="30" y="130" width="764" height="859" rx="11" fill="#ffffff"/>
+<rect x="31.5" y="131.5" width="761.0" height="856.0" rx="11" fill="none" stroke="#000000" stroke-width="3"/>
+<text x="63" y="201" text-anchor="start" style="font-family:Helvetica, Arial, sans-serif;font-weight:600;font-size:41px" fill="#000000">Anki needs the KR2Anki note</text>
+<text x="63" y="254" text-anchor="start" style="font-family:Helvetica, Arial, sans-serif;font-weight:600;font-size:41px" fill="#000000">types.</text>
+<text x="63" y="315" text-anchor="start" style="font-family:Helvetica, Arial, sans-serif;font-size:34px" fill="#444444">AnkiConnect Android can't create</text>
+<text x="63" y="359" text-anchor="start" style="font-family:Helvetica, Arial, sans-serif;font-size:34px" fill="#444444">note types on this phone, so they</text>
+<text x="63" y="403" text-anchor="start" style="font-family:Helvetica, Arial, sans-serif;font-size:34px" fill="#444444">are installed once from a package:</text>
+<text x="63" y="456" text-anchor="start" style="font-family:Helvetica, Arial, sans-serif;font-size:28px" fill="#000000">1. Tap Write note-type package.</text>
+<text x="63" y="492" text-anchor="start" style="font-family:Helvetica, Arial, sans-serif;font-size:28px" fill="#000000">2. In AnkiDroid: ⋮ ▸ Import ▸</text>
+<text x="63" y="528" text-anchor="start" style="font-family:Helvetica, Arial, sans-serif;font-size:28px" fill="#000000">koreader/kr2anki-export/kr2anki_notetypes.apkg</text>
+<text x="63" y="564" text-anchor="start" style="font-family:Helvetica, Arial, sans-serif;font-size:28px" fill="#000000">.…</text>
+<rect x="63" y="601" width="698" height="111" rx="11" fill="#000000"/>
+<text x="197" y="668" style="font-family:Helvetica, Arial, sans-serif;font-weight:600;font-size:34px" fill="#ffffff">Write note-type package</text>
+<rect x="63" y="723" width="698" height="111" rx="11" fill="#ffffff"/>
+<rect x="64.5" y="724.5" width="695.0" height="108.0" rx="11" fill="none" stroke="#000000" stroke-width="3"/>
+<text x="309" y="790" style="font-family:Helvetica, Arial, sans-serif;font-weight:600;font-size:34px" fill="#000000">Check again</text>
+<rect x="63" y="845" width="698" height="111" rx="11" fill="#ffffff"/>
+<rect x="64.5" y="846.5" width="695.0" height="108.0" rx="11" fill="none" stroke="#000000" stroke-width="3"/>
+<text x="78" y="912" style="font-family:Helvetica, Arial, sans-serif;font-weight:600;font-size:34px" fill="#000000">Save as Anki package (.apkg) inste…</text>
+<rect x="0" y="1487" width="824" height="4" fill="#000000"/>
+<rect x="30" y="1514" width="764" height="111" rx="11" fill="#ffffff"/>
+<rect x="31.5" y="1515.5" width="761.0" height="108.0" rx="11" fill="none" stroke="#000000" stroke-width="3"/>
+<text x="356" y="1581" style="font-family:Helvetica, Arial, sans-serif;font-weight:600;font-size:34px" fill="#000000">Cancel</text>
+</svg>

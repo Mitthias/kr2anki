@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="824" height="1648" viewBox="0 0 824 1648" style="background:#fff">
+<rect x="0" y="0" width="824" height="1648" rx="0" fill="#ffffff"/>
+<text x="29" y="74" style="font-family:Helvetica, Arial, sans-serif;font-size:53px" fill="#000000">‹</text>
+<text x="111" y="70" style="font-family:Helvetica, Arial, sans-serif;font-weight:600;font-size:41px" fill="#000000">Set up Anki export</text>
+<text x="735" y="64" style="font-family:Helvetica, Arial, sans-serif;font-size:28px" fill="#000000">Skip</text>
+<rect x="735" y="75" width="62" height="2" fill="#000000"/>
+<rect x="0" y="111" width="824" height="4" fill="#000000"/>
+<text x="30" y="159" text-anchor="start" style="font-family:Helvetica, Arial, sans-serif;font-size:28px" fill="#444444">Five checks, once. You can still save words</text>
+<text x="30" y="195" text-anchor="start" style="font-family:Helvetica, Arial, sans-serif;font-size:28px" fill="#444444">without Anki; they wait in the Inbox.</text>
+<rect x="30" y="221" width="764" height="2" fill="#000000"/>
+<rect x="30" y="254" width="49" height="49" rx="8" fill="#000000"/>
+<text x="47" y="288" style="font-family:Helvetica, Arial, sans-serif;font-weight:600;font-size:28px" fill="#ffffff">×</text>
+<text x="105" y="272" text-anchor="start" style="font-family:Helvetica, Arial, sans-serif;font-weight:600;font-size:34px" fill="#000000">AnkiDroid installed</text>
+<text x="105" y="307" text-anchor="start" style="font-family:Helvetica, Arial, sans-serif;font-size:24px" fill="#444444">Needs action · tap for steps</text>
+<rect x="30" y="334" width="764" height="2" fill="#999999"/>
+<rect x="30" y="367" width="49" height="49" rx="8" fill="#000000"/>
+<text x="47" y="401" style="font-family:Helvetica, Arial, sans-serif;font-weight:600;font-size:28px" fill="#ffffff">×</text>
+<text x="105" y="385" text-anchor="start" style="font-family:Helvetica, Arial, sans-serif;font-weight:600;font-size:34px" fill="#000000">AnkiConnect Android installed</text>
+<text x="105" y="420" text-anchor="start" style="font-family:Helvetica, Arial, sans-serif;font-size:24px" fill="#444444">Needs action · tap for steps</text>
+<rect x="30" y="447" width="764" height="2" fill="#999999"/>
+<rect x="30" y="480" width="49" height="49" rx="8" fill="#000000"/>
+<text x="47" y="514" style="font-family:Helvetica, Arial, sans-serif;font-weight:600;font-size:28px" fill="#ffffff">×</text>
+<text x="105" y="498" text-anchor="start" style="font-family:Helvetica, Arial, sans-serif;font-weight:600;font-size:34px" fill="#000000">Battery optimization off</text>
+<text x="105" y="533" text-anchor="start" style="font-family:Helvetica, Arial, sans-serif;font-size:24px" fill="#444444">Needs action · tap for steps</text>
+<rect x="30" y="560" width="764" height="2" fill="#999999"/>
+<text x="30" y="629" style="font-family:Helvetica, Arial, sans-serif;font-size:34px" fill="#000000">○</text>
+<text x="105" y="611" text-anchor="start" style="font-family:Helvetica, Arial, sans-serif;font-size:34px" fill="#000000">Connection test</text>
+<text x="105" y="646" text-anchor="start" style="font-family:Helvetica, Arial, sans-serif;font-size:24px" fill="#444444">Not checked</text>
+<rect x="664" y="562" width="130" height="111" rx="11" fill="#ffffff"/>
+<rect x="665.5" y="563.5" width="127.0" height="108.0" rx="11" fill="none" stroke="#000000" stroke-width="3"/>
+<text x="698" y="627" style="font-family:Helvetica, Arial, sans-serif;font-weight:600;font-size:28px" fill="#000000">Test</text>
+<rect x="30" y="673" width="764" height="2" fill="#999999"/>
+<text x="30" y="742" style="font-family:Helvetica, Arial, sans-serif;font-size:34px" fill="#000000">○</text>
+<text x="105" y="724" text-anchor="start" style="font-family:Helvetica, Arial, sans-serif;font-size:34px" fill="#000000">Create decks and note…</text>
+<text x="105" y="759" text-anchor="start" style="font-family:Helvetica, Arial, sans-serif;font-size:24px" fill="#444444">Not checked · Reading::Japanese</text>
+<rect x="634" y="675" width="160" height="111" rx="11" fill="#ffffff"/>
+<rect x="635.5" y="676.5" width="157.0" height="108.0" rx="11" fill="none" stroke="#000000" stroke-width="3"/>
+<text x="668" y="740" style="font-family:Helvetica, Arial, sans-serif;font-weight:600;font-size:28px" fill="#000000">Create</text>
+<rect x="0" y="1487" width="824" height="4" fill="#000000"/>
+<text x="30" y="1581" style="font-family:Helvetica, Arial, sans-serif;font-size:34px" fill="#000000">Step 1 of 5</text>
+<rect x="373" y="1514" width="421" height="111" rx="11" fill="#000000"/>
+<text x="508" y="1581" style="font-family:Helvetica, Arial, sans-serif;font-weight:600;font-size:34px" fill="#ffffff">Continue</text>
+</svg>

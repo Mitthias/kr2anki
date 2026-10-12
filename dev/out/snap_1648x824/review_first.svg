@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1648" height="824" viewBox="0 0 1648 824" style="background:#fff">
+<rect x="0" y="0" width="1648" height="824" rx="0" fill="#ffffff"/>
+<text x="29" y="74" style="font-family:Helvetica, Arial, sans-serif;font-size:53px" fill="#000000">‹</text>
+<text x="111" y="70" style="font-family:Helvetica, Arial, sans-serif;font-weight:600;font-size:41px" fill="#000000">Review 1 / 6</text>
+<text x="1385" y="65" style="font-family:Helvetica, Arial, sans-serif;font-size:28px" fill="#444444">Korean · Word ›</text>
+<rect x="0" y="111" width="1648" height="4" fill="#000000"/>
+<text x="30" y="198" style="font-family:Helvetica, Arial, sans-serif;font-size:34px" fill="#444444">먹었다 → </text>
+<text x="203" y="206" style="font-family:Helvetica, Arial, sans-serif;font-weight:600;font-size:56px" fill="#000000">먹다</text>
+<rect x="338" y="130" width="113" height="113" rx="11" fill="#ffffff"/>
+<rect x="339.5" y="131.5" width="110.0" height="110.0" rx="11" fill="none" stroke="#000000" stroke-width="3"/>
+<text x="374" y="201" style="font-family:Helvetica, Arial, sans-serif;font-size:41px" fill="#000000">✎</text>
+<text x="30" y="280" style="font-family:Helvetica, Arial, sans-serif;font-size:34px" fill="#444444">meokda</text>
+<rect x="30" y="319" width="779" height="110" rx="11" fill="#ffffff"/>
+<rect x="31.5" y="320.5" width="776.0" height="107.0" rx="11" fill="none" stroke="#000000" stroke-width="3"/>
+<text x="59" y="385" text-anchor="start" style="font-family:Georgia, serif;font-size:36px" fill="#000000">우리는 밥을 먹었다.</text>
+<text x="30" y="464" style="font-family:Helvetica, Arial, sans-serif;font-size:24px" fill="#444444">채식주의자 · 한강 · p. 3</text>
+<text x="839" y="155" style="font-family:Helvetica, Arial, sans-serif;font-weight:600;font-size:24px" fill="#000000">CHOOSE THE SENSE THAT FITS</text>
+<text x="1288" y="155" style="font-family:Helvetica, Arial, sans-serif;font-size:24px" fill="#444444">Korean-English Dictionary</text>
+<rect x="839" y="212" width="45" height="45" rx="22" fill="#ffffff"/>
+<rect x="841.0" y="214.0" width="41.0" height="41.0" rx="22" fill="none" stroke="#000000" stroke-width="4"/>
+<rect x="851" y="224" width="21" height="21" rx="10" fill="#000000"/>
+<text x="910" y="243" text-anchor="start" style="font-family:Helvetica, Arial, sans-serif;font-weight:600;font-size:34px" fill="#000000">1. eat, have, take</text>
+<text x="839" y="362" style="font-family:Helvetica, Arial, sans-serif;font-size:28px" fill="#000000">Show full entry</text>
+<rect x="839" y="373" width="231" height="2" fill="#000000"/>
+<rect x="1108" y="298" width="299" height="111" rx="11" fill="#ffffff"/>
+<rect x="1109.5" y="299.5" width="296.0" height="108.0" rx="11" fill="none" stroke="#000000" stroke-width="3"/>
+<text x="1142" y="363" style="font-family:Helvetica, Arial, sans-serif;font-weight:600;font-size:28px" fill="#000000">More senses (1)</text>
+<text x="839" y="471" style="font-family:Helvetica, Arial, sans-serif;font-weight:600;font-size:24px" fill="#000000">NOTE</text>
+<rect x="839" y="491" width="779" height="111" rx="11" fill="#ffffff"/>
+<rect x="840.5" y="492.5" width="776.0" height="108.0" rx="11" fill="none" stroke="#000000" stroke-width="3"/>
+<text x="865" y="555" text-anchor="start" style="font-family:Helvetica, Arial, sans-serif;font-size:34px" fill="#444444">Tap to add</text>
+<rect x="0" y="663" width="1648" height="4" fill="#000000"/>
+<rect x="30" y="690" width="385" height="111" rx="11" fill="#ffffff"/>
+<rect x="31.5" y="691.5" width="382.0" height="108.0" rx="11" fill="none" stroke="#000000" stroke-width="3"/>
+<text x="191" y="755" style="font-family:Helvetica, Arial, sans-serif;font-weight:600;font-size:28px" fill="#000000">Skip</text>
+<rect x="430" y="690" width="385" height="111" rx="11" fill="#ffffff"/>
+<rect x="431.5" y="691.5" width="382.0" height="108.0" rx="11" fill="none" stroke="#000000" stroke-width="3"/>
+<text x="562" y="755" style="font-family:Helvetica, Arial, sans-serif;font-weight:600;font-size:28px" fill="#000000">— Known</text>
+<rect x="830" y="690" width="385" height="111" rx="11" fill="#ffffff"/>
+<rect x="831.5" y="691.5" width="382.0" height="108.0" rx="11" fill="none" stroke="#000000" stroke-width="3"/>
+<text x="953" y="755" style="font-family:Helvetica, Arial, sans-serif;font-weight:600;font-size:28px" fill="#000000">× Discard</text>
+<rect x="1230" y="690" width="388" height="111" rx="11" fill="#000000"/>
+<text x="1364" y="755" style="font-family:Helvetica, Arial, sans-serif;font-weight:600;font-size:28px" fill="#ffffff">✓ Ready</text>
+</svg>

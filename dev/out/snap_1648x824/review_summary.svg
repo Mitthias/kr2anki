@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1648" height="824" viewBox="0 0 1648 824" style="background:#fff">
+<rect x="0" y="0" width="1648" height="824" rx="0" fill="#ffffff"/>
+<text x="29" y="74" style="font-family:Helvetica, Arial, sans-serif;font-size:53px" fill="#000000">‹</text>
+<text x="111" y="70" style="font-family:Helvetica, Arial, sans-serif;font-weight:600;font-size:41px" fill="#000000">Review done</text>
+<rect x="0" y="111" width="1648" height="4" fill="#000000"/>
+<text x="781" y="348" style="font-family:Helvetica, Arial, sans-serif;font-weight:600;font-size:86px" fill="#000000">✓</text>
+<text x="824" y="437" text-anchor="middle" style="font-family:Helvetica, Arial, sans-serif;font-weight:600;font-size:41px" fill="#000000">0 Ready · 0 Known · 0 Discarded · 5 skipped</text>
+<text x="824" y="507" text-anchor="middle" style="font-family:Helvetica, Arial, sans-serif;font-size:28px" fill="#444444">Swipe right to go back and change a decision.</text>
+<rect x="0" y="663" width="1648" height="4" fill="#000000"/>
+<rect x="30" y="690" width="786" height="111" rx="11" fill="#ffffff"/>
+<rect x="31.5" y="691.5" width="783.0" height="108.0" rx="11" fill="none" stroke="#000000" stroke-width="3"/>
+<text x="385" y="757" style="font-family:Helvetica, Arial, sans-serif;font-weight:600;font-size:34px" fill="#000000">Done</text>
+<rect x="831" y="690" width="787" height="111" rx="11" fill="#ffffff"/>
+<text x="1131" y="757" style="font-family:Helvetica, Arial, sans-serif;font-weight:600;font-size:34px" fill="#999999">Export (0)</text>
+</svg>

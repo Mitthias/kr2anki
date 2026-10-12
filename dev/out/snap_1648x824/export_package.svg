@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1648" height="824" viewBox="0 0 1648 824" style="background:#fff">
+<rect x="0" y="0" width="1648" height="824" rx="0" fill="#ffffff"/>
+<text x="29" y="74" style="font-family:Helvetica, Arial, sans-serif;font-size:53px" fill="#000000">‹</text>
+<text x="111" y="70" style="font-family:Helvetica, Arial, sans-serif;font-weight:600;font-size:41px" fill="#000000">Save as Anki package</text>
+<text x="1629" y="65" style="font-family:Helvetica, Arial, sans-serif;font-weight:600;font-size:28px" fill="#000000"></text>
+<rect x="0" y="111" width="1648" height="4" fill="#000000"/>
+<text x="30" y="201" style="font-family:Helvetica, Arial, sans-serif;font-weight:600;font-size:64px" fill="#000000">✓ Package saved</text>
+<text x="30" y="267" text-anchor="start" style="font-family:Helvetica, Arial, sans-serif;font-size:28px" fill="#000000">/var/folders/z5/m1_t19b51zn8pp_3_qr0fcjr0000gn/T/tmp.Jq2Il2xtDA/kr2anki-export/kr2anki-2026-10-09-1927.ap</text>
+<text x="30" y="303" text-anchor="start" style="font-family:Helvetica, Arial, sans-serif;font-size:28px" fill="#000000">k g</text>
+<text x="30" y="364" text-anchor="start" style="font-family:Helvetica, Arial, sans-serif;font-weight:600;font-size:34px" fill="#000000">In AnkiDroid: ⋮ ▸ Import ▸ choose this file.</text>
+<text x="30" y="428" text-anchor="start" style="font-family:Helvetica, Arial, sans-serif;font-size:28px" fill="#444444">Items stay Ready, because KR2Anki can't confirm the import. After importing, tap Mark as exported.</text>
+<rect x="0" y="663" width="1648" height="4" fill="#000000"/>
+<rect x="30" y="690" width="786" height="111" rx="11" fill="#ffffff"/>
+<rect x="31.5" y="691.5" width="783.0" height="108.0" rx="11" fill="none" stroke="#000000" stroke-width="3"/>
+<text x="273" y="757" style="font-family:Helvetica, Arial, sans-serif;font-weight:600;font-size:34px" fill="#000000">Mark as exported</text>
+<rect x="831" y="690" width="787" height="111" rx="11" fill="#000000"/>
+<text x="1187" y="757" style="font-family:Helvetica, Arial, sans-serif;font-weight:600;font-size:34px" fill="#ffffff">Done</text>
+</svg>

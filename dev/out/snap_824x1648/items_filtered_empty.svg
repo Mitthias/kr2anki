@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="824" height="1648" viewBox="0 0 824 1648" style="background:#fff">
+<rect x="0" y="0" width="824" height="1648" rx="0" fill="#ffffff"/>
+<text x="29" y="74" style="font-family:Helvetica, Arial, sans-serif;font-size:53px" fill="#000000">‹</text>
+<text x="111" y="69" style="font-family:Helvetica, Arial, sans-serif;font-weight:600;font-size:38px" fill="#000000">Japanese › 『…</text>
+<text x="507" y="70" style="font-family:Helvetica, Arial, sans-serif;font-size:41px" fill="#000000">⌕</text>
+<rect x="583" y="0" width="222" height="111" rx="11" fill="#000000"/>
+<text x="617" y="65" style="font-family:Helvetica, Arial, sans-serif;font-weight:600;font-size:28px" fill="#ffffff">Filter · 1</text>
+<rect x="0" y="111" width="824" height="4" fill="#000000"/>
+<text x="30" y="180" style="font-family:Helvetica, Arial, sans-serif;font-size:28px" fill="#444444">0 items · status: ✓ In Anki</text>
+<text x="601" y="179" style="font-family:Helvetica, Arial, sans-serif;font-size:28px" fill="#000000">Clear filter</text>
+<rect x="601" y="190" width="185" height="2" fill="#000000"/>
+<rect x="0" y="226" width="824" height="2" fill="#000000"/>
+<rect x="340" y="644" width="143" height="143" rx="71" fill="#ffffff"/>
+<rect x="342.0" y="646.0" width="139.0" height="139.0" rx="71" fill="none" stroke="#000000" stroke-width="4"/>
+<text x="377" y="739" style="font-family:Helvetica, Arial, sans-serif;font-size:68px" fill="#000000">●</text>
+<text x="412" y="859" text-anchor="middle" style="font-family:Helvetica, Arial, sans-serif;font-weight:600;font-size:41px" fill="#000000">No words match this filter.</text>
+<text x="412" y="924" text-anchor="middle" style="font-family:Helvetica, Arial, sans-serif;font-size:34px" fill="#444444">Try another filter.</text>
+<text x="315" y="1024" style="font-family:Helvetica, Arial, sans-serif;font-size:28px" fill="#000000">Clear filter</text>
+<rect x="315" y="1035" width="185" height="2" fill="#000000"/>
+<rect x="0" y="1487" width="824" height="4" fill="#000000"/>
+<rect x="30" y="1514" width="374" height="111" rx="11" fill="#ffffff"/>
+<rect x="31.5" y="1515.5" width="371.0" height="108.0" rx="11" fill="none" stroke="#000000" stroke-width="3"/>
+<text x="142" y="1581" style="font-family:Helvetica, Arial, sans-serif;font-weight:600;font-size:34px" fill="#000000">Show all</text>
+<rect x="419" y="1514" width="375" height="111" rx="11" fill="#ffffff"/>
+<text x="513" y="1581" style="font-family:Helvetica, Arial, sans-serif;font-weight:600;font-size:34px" fill="#999999">Review (0)</text>
+</svg>

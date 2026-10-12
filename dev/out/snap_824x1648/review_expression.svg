@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="824" height="1648" viewBox="0 0 824 1648" style="background:#fff">
+<rect x="0" y="0" width="824" height="1648" rx="0" fill="#ffffff"/>
+<text x="29" y="74" style="font-family:Helvetica, Arial, sans-serif;font-size:53px" fill="#000000">‹</text>
+<text x="111" y="70" style="font-family:Helvetica, Arial, sans-serif;font-weight:600;font-size:41px" fill="#000000">Review 3 / 5</text>
+<text x="487" y="65" style="font-family:Helvetica, Arial, sans-serif;font-size:28px" fill="#444444">Japanese · ◆ Expr ›</text>
+<rect x="0" y="111" width="824" height="4" fill="#000000"/>
+<text x="30" y="177" style="font-family:Helvetica, Arial, sans-serif;font-weight:600;font-size:24px" fill="#000000">PATTERN</text>
+<rect x="30" y="197" width="764" height="111" rx="11" fill="#ffffff"/>
+<rect x="31.5" y="198.5" width="761.0" height="108.0" rx="11" fill="none" stroke="#000000" stroke-width="3"/>
+<text x="56" y="265" text-anchor="start" style="font-family:Helvetica, Arial, sans-serif;font-weight:600;font-size:45px" fill="#000000">わなくてはならない</text>
+<text x="30" y="355" style="font-family:Helvetica, Arial, sans-serif;font-weight:600;font-size:24px" fill="#000000">MEANING</text>
+<rect x="30" y="375" width="764" height="111" rx="11" fill="#ffffff"/>
+<rect x="31.5" y="376.5" width="761.0" height="108.0" rx="11" fill="none" stroke="#000000" stroke-width="3"/>
+<text x="56" y="439" text-anchor="start" style="font-family:Helvetica, Arial, sans-serif;font-size:34px" fill="#444444">Tap to add</text>
+<text x="30" y="533" style="font-family:Helvetica, Arial, sans-serif;font-weight:600;font-size:24px" fill="#000000">FORMATION</text>
+<text x="160" y="533" style="font-family:Helvetica, Arial, sans-serif;font-size:24px" fill="#444444">· optional</text>
+<rect x="30" y="553" width="764" height="111" rx="11" fill="#ffffff"/>
+<rect x="31.5" y="554.5" width="761.0" height="108.0" rx="11" fill="none" stroke="#000000" stroke-width="3"/>
+<text x="56" y="617" text-anchor="start" style="font-family:Helvetica, Arial, sans-serif;font-size:34px" fill="#444444">Tap to add</text>
+<text x="30" y="711" style="font-family:Helvetica, Arial, sans-serif;font-weight:600;font-size:24px" fill="#000000">NUANCE</text>
+<text x="120" y="711" style="font-family:Helvetica, Arial, sans-serif;font-size:24px" fill="#444444">· optional</text>
+<rect x="30" y="731" width="764" height="111" rx="11" fill="#ffffff"/>
+<rect x="31.5" y="732.5" width="761.0" height="108.0" rx="11" fill="none" stroke="#000000" stroke-width="3"/>
+<text x="56" y="795" text-anchor="start" style="font-family:Helvetica, Arial, sans-serif;font-size:34px" fill="#444444">Tap to add</text>
+<rect x="30" y="868" width="764" height="162" rx="11" fill="#ffffff"/>
+<rect x="31.5" y="869.5" width="761.0" height="159.0" rx="11" fill="none" stroke="#000000" stroke-width="3"/>
+<text x="59" y="934" text-anchor="start" style="font-family:Georgia, serif;font-size:36px" fill="#000000">その犠牲としてみんなこの淋しみを味わわ</text>
+<text x="59" y="986" text-anchor="start" style="font-family:Georgia, serif;font-size:36px" fill="#000000">な く て は な ら な い で し ょ う 」</text>
+<text x="30" y="1065" style="font-family:Helvetica, Arial, sans-serif;font-size:24px" fill="#444444">『こころ』 · 夏目漱石 · p. 3</text>
+<rect x="0" y="1487" width="824" height="4" fill="#000000"/>
+<rect x="30" y="1514" width="179" height="111" rx="11" fill="#ffffff"/>
+<rect x="31.5" y="1515.5" width="176.0" height="108.0" rx="11" fill="none" stroke="#000000" stroke-width="3"/>
+<text x="88" y="1579" style="font-family:Helvetica, Arial, sans-serif;font-weight:600;font-size:28px" fill="#000000">Skip</text>
+<rect x="224" y="1514" width="179" height="111" rx="11" fill="#ffffff"/>
+<rect x="225.5" y="1515.5" width="176.0" height="108.0" rx="11" fill="none" stroke="#000000" stroke-width="3"/>
+<text x="253" y="1579" style="font-family:Helvetica, Arial, sans-serif;font-weight:600;font-size:28px" fill="#000000">— Known</text>
+<rect x="418" y="1514" width="179" height="111" rx="11" fill="#ffffff"/>
+<rect x="419.5" y="1515.5" width="176.0" height="108.0" rx="11" fill="none" stroke="#000000" stroke-width="3"/>
+<text x="438" y="1579" style="font-family:Helvetica, Arial, sans-serif;font-weight:600;font-size:28px" fill="#000000">× Discard</text>
+<rect x="612" y="1514" width="182" height="111" rx="11" fill="#000000"/>
+<text x="643" y="1579" style="font-family:Helvetica, Arial, sans-serif;font-weight:600;font-size:28px" fill="#ffffff">✓ Ready</text>
+</svg>
