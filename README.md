@@ -10,6 +10,11 @@ an `.apkg` file when the connection isn't available.
 Target: iReader Tango 2 · SmartOS 4.0.0 · KOReader 2026.07.1 · StarDict
 dictionaries · AnkiConnect Android (IzzyOnDroid) · AnkiDroid.
 
+<img width="739" height="736" alt="Screenshot 2026-10-12 at 12 08 37" src="https://github.com/user-attachments/assets/4a591aa3-74f8-4bb7-a52d-b22109a3d3be" />
+<img width="1481" height="729" alt="Screenshot 2026-10-12 at 12 09 09" src="https://github.com/user-attachments/assets/48832649-69cf-4029-8812-c4036822afef" />
+<img width="1484" height="718" alt="Screenshot 2026-10-12 at 12 09 29" src="https://github.com/user-attachments/assets/328ab773-8389-47b5-b0ed-d527757359ea" />
+
+
 ## Install on the Tango 2
 
 1. Connect the Tango 2 to a computer over USB (or use any file manager on it).
